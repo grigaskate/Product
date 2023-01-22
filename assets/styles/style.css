@@ -190,3 +190,20 @@ font-size: 1em;
 line-height: 26px;
 color: #22343D;
 }
+
+.button__GetStarted {   
+    background: #02897A;
+    border-radius: 4px;
+    color: #FFFFFF;
+    width: 175px;
+    height: 53px;
+}
+
+.button__WatchTheVideo {
+    text-decoration-line: underline;
+    color: #02897A;
+    width: 175px;
+    height: 53px;
+    background-color: rgba(28,28,28,0);
+    border: 0px;
+}
